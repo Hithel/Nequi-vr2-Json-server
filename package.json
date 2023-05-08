@@ -8,5 +8,17 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hithel/Nequi-vr2-Json-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Hithel/Nequi-vr2-Json-server/issues"
+  },
+  "homepage": "https://github.com/Hithel/Nequi-vr2-Json-server#readme",
   "description": ""
 }
