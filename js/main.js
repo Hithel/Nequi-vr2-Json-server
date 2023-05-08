@@ -122,7 +122,6 @@ tbodyIngresos.addEventListener("click", (e)=>{
     mov.value = movi
     desc.value = descrip
     valor.value = valorMov
-
    }
 })
 
