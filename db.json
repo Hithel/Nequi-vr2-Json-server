@@ -1,0 +1,16 @@
+{
+  "usuarios": [
+    {
+      "movimiento": "ingreso",
+      "decripcion": "pago xD",
+      "valor": "5000",
+      "id": 1
+    },
+    {
+      "movimiento": "ingreso",
+      "decripcion": "sena me volvio a pagar",
+      "valor": "10000",
+      "id": 2
+    }
+  ]
+}

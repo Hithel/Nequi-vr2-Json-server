@@ -1,0 +1,20 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.contenedorPrincipal {
+    background:linear-gradient(75deg, rgba(255,0,68),rgba(131,0,187));
+}
+
+.btn-guardar:hover{
+    color:white;
+    transform: scale(1.25);
+    transition: transform 0.5s ease;
+
+}
+
+.btn-guardar:active{
+    color:white;
+}
+
